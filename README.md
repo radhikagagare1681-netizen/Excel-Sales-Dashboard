@@ -39,7 +39,7 @@ This project is an interactive Sales Dashboard created using Microsoft Excel. It
 7. Interactive Slicers for Product Category, Country, and Quarter
 
 ### 🖼️ Dashboard Preview
-![Sales Dashboard](./Sales%20Dashboard.png)
+![Sales Dashboard](Sales%20Dashboard.png)
 
 ### 📂 Project Files
 - Excel Sales Dashboard.xlsx – Main Excel Dashboard
